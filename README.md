@@ -1,0 +1,2 @@
+PROJECT KASIR SEDERHANA
+- Laravel, PHP, MySql
